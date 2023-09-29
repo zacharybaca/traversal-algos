@@ -1,4 +1,4 @@
-function breathFirst() {
+function breadthFirst() {
     // Put the starting node in a queue.
     // While the queue is not empty, repeat steps 3-4.
     // Dequeue a node and print it.
